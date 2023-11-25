@@ -1,0 +1,59 @@
+body{
+    background-image: url(design-de-plano-de-fundo-gradiente-abstrato_509471-62.avif);
+    background-size: cover;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+#container{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 250px;
+}
+fieldset{
+    
+    padding: 1em;
+    background-color: rgba(255, 255, 255, 0.348);
+    border-radius: 20px;
+}
+input::placeholder{
+    color:white;
+}
+img{
+    width: 100px;
+}
+legend{
+    margin:20px auto
+}
+input{
+    display: block;
+    padding: 1em;
+    letter-spacing: 2px;
+    margin:20px auto;
+    width: 72%;
+    margin-top: 5px;
+    padding-left:50px;
+    border: none;
+    border-radius: 10px;
+    background: black;
+}
+
+input[type="submit"]{
+    width: 90%;
+    margin-top: 2px;
+    background-color: orange;
+    padding: 1em;
+    
+}
+input[type="email"]{
+    background-image:url(icone-usuario.png) ;
+    background-repeat: no-repeat;
+    background-position: 10px;
+    
+}
+input[type="password"]{
+    background-image:url(icone-cadeado.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
