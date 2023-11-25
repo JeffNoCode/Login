@@ -1,5 +1,5 @@
 body{
-    background-image: url(design-de-plano-de-fundo-gradiente-abstrato_509471-62.avif);
+    background-image: url(./imagem/design-de-plano-de-fundo-gradiente-abstrato_509471-62.avif);
     background-size: cover;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
@@ -47,13 +47,13 @@ input[type="submit"]{
     
 }
 input[type="email"]{
-    background-image:url(icone-usuario.png) ;
+    background-image:url(./imagem/icone-usuario.png);
     background-repeat: no-repeat;
     background-position: 10px;
     
 }
 input[type="password"]{
-    background-image:url(icone-cadeado.png);
+    background-image:url(./imagem/icone-cadeado.png);
     background-repeat: no-repeat;
     background-position: 10px;
 }
