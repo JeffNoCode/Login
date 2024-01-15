@@ -2,6 +2,7 @@ body{
     background-image: url(./imagem/design-de-plano-de-fundo-gradiente-abstrato_509471-62.avif);
     background-size: cover;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
 }
 
 #container{
@@ -37,6 +38,7 @@ input{
     border: none;
     border-radius: 10px;
     background: black;
+    color: white;
 }
 
 input[type="submit"]{
